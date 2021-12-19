@@ -1,5 +1,5 @@
 1.Create a new maven project
-2.Add "Data" Package which contains data needed by the scripts.
+2.Add "Data" Package which contains data needed by the scripts.<br />
 3. Create "Pages" Package which contains pages needed during executing scenario
 4. Add Elements related to each page and the methods that operate on these elements
 5. Create "Tests" Package which contains required testcases 
