@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58319" started-at="2021-12-18T23:32:20 EET" finished-at="2021-12-18T23:33:18 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58319" started-at="2021-12-18T23:32:20 EET" finished-at="2021-12-18T23:33:18 EET">
+      <class name="Tests.Hotel_Reserve">
+        <test-method status="PASS" signature="startdriver()[pri:0, instance:Tests.Hotel_Reserve@52f759d7]" name="startdriver" is-config="true" duration-ms="25754" started-at="2021-12-18T23:31:54 EET" finished-at="2021-12-18T23:32:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startdriver -->
+        <test-method status="PASS" signature="HoverOnHotel_InviewedList()[pri:1, instance:Tests.Hotel_Reserve@52f759d7]" name="HoverOnHotel_InviewedList" duration-ms="47210" started-at="2021-12-18T23:32:20 EET" finished-at="2021-12-18T23:33:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoverOnHotel_InviewedList -->
+        <test-method status="PASS" signature="Validate_HoveredHotel_AgainstTheOneInMap()[pri:2, instance:Tests.Hotel_Reserve@52f759d7]" name="Validate_HoveredHotel_AgainstTheOneInMap" duration-ms="1345" started-at="2021-12-18T23:33:07 EET" depends-on-methods="Tests.Hotel_Reserve.HoverOnHotel_InviewedList" finished-at="2021-12-18T23:33:09 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_HoveredHotel_AgainstTheOneInMap -->
+        <test-method status="PASS" signature="Validate_ReservationData()[pri:3, instance:Tests.Hotel_Reserve@52f759d7]" name="Validate_ReservationData" duration-ms="9697" started-at="2021-12-18T23:33:09 EET" depends-on-methods="Tests.Hotel_Reserve.Validate_HoveredHotel_AgainstTheOneInMap" finished-at="2021-12-18T23:33:18 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ReservationData -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Tests.Hotel_Reserve@52f759d7]" name="TearDown" is-config="true" duration-ms="1572" started-at="2021-12-18T23:33:18 EET" finished-at="2021-12-18T23:33:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Tests.Hotel_Reserve -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
