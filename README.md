@@ -1,4 +1,4 @@
-**Project Info**
+**Project Info**<br />
 1.Create a new maven project.<br />
 2.Add "Data" Package which contains data needed by the scripts.<br />
 3. Create "Pages" Package which contains pages needed during executing scenario.<br />
