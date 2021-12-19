@@ -10,3 +10,4 @@
 2. Import the project using any IDE (Eclipse , intellij)
 3. Run "Hotel_Reserve" class as TestNG.
 ##Alternative way to run the project
+**This is bold text**
