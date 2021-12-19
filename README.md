@@ -11,5 +11,7 @@
 2. Import the project using any IDE (Eclipse , intellij)
 3. Run "Hotel_Reserve" class as TestNG.
 **Alternative way to run the project**
-1.Navigate to Task 
+1.Open Task folder then double click on **"Task_Runnable_File"** file.
+
+
 
