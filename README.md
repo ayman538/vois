@@ -5,9 +5,9 @@
 5. Create "Tests" Package which contains required testcases 
 6. Add all dependency needed in "Pom.xml" file.
 7.Add chrome driver in "Drivers" Folder.
-##Download and run Instructions
+**Download and run Instructions**
 1.Clone The project into your local computer
 2. Import the project using any IDE (Eclipse , intellij)
 3. Run "Hotel_Reserve" class as TestNG.
-##Alternative way to run the project
-**This is bold text**
+**Alternative way to run the project**
+
