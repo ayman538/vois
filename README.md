@@ -6,7 +6,7 @@
 5. Project contains **"Tests" Package** which contains required testcases.<br />
 6. All dependency needed added in **"Pom.xml" file"**.<br />
 7. Chrome driver is added in **"Drivers"** Folder.<br />
-8. Design pattern **(Page object)**
+8. Design pattern **(Page object)** <br />
 **Download and run Instructions**<br />
 1.Clone The project into your local computer<br />
 2. Import the project using any IDE (Eclipse , intellij)<br />
